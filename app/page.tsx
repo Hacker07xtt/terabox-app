@@ -1,4 +1,4 @@
-"use client";
+o"use client";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -161,7 +161,7 @@ export default function Home() {
           <li>
             {/* <Camera color="red" size={48} /> */}
             <Button className="bg-blue-600">
-              <Link href="https://t.me/RoldexVerse">Telegram</Link>
+              <Link href="https://t.me/Cobra_X_Y_Z">Telegram</Link>
             </Button>
           </li>
         </ul>
